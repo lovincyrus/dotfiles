@@ -1,0 +1,5 @@
+
+#!/bin/sh
+
+# brewski
+brew install wifi-password
