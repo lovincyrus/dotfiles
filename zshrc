@@ -7,6 +7,7 @@ code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}
 alias trash='rm -rf ~/.Trash/'
 alias rebase='git pull --rebase origin master'
 alias stree='/Applications/SourceTree.app/Contents/Resources/stree'
+alias yasss='yarn cache clean; yarn install; yarn start'
 
 #yarn deploy:staging-m2
 
