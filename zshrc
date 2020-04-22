@@ -14,6 +14,7 @@ alias stree='/Applications/SourceTree.app/Contents/Resources/stree'
 alias yasss='yarn cache clean; yarn install; yarn start'
 alias cc='code .'
 alias fast='fast --upload'
+alias local='python -m SimpleHTTPServer 8000'
 
 # scrub cache and remove downloads from old versions
 #brew cleanup -s
