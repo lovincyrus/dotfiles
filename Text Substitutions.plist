@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>phrase</key>
+		<string>→</string>
+		<key>shortcut</key>
+		<string>-&gt;</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>←</string>
+		<key>shortcut</key>
+		<string>&lt;-</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>½</string>
+		<key>shortcut</key>
+		<string>1/2</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>(;´༎ຶД༎ຶ`)</string>
+		<key>shortcut</key>
+		<string>cri</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>(╯°□°)╯︵ ┻━┻</string>
+		<key>shortcut</key>
+		<string>flip-table</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>¯\( ˘͡ ˘̯)/¯</string>
+		<key>shortcut</key>
+		<string>hmph</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>( ͡° ͜ʖ ͡°)</string>
+		<key>shortcut</key>
+		<string>lennyface</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>On my way!</string>
+		<key>shortcut</key>
+		<string>omw</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>¯\_(ツ)_/¯</string>
+		<key>shortcut</key>
+		<string>shrug</string>
+	</dict>
+</array>
+</plist>
