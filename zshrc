@@ -17,6 +17,7 @@ alias yasss='yarn cache clean; yarn install; yarn start'
 alias cc='code .'
 alias fast='fast --upload'
 alias lint='./node_modules/.bin/eslint src/*.vue --fix'
+alias save='osascript ~/projects/dotfiles/scripts/Add\ to\ Safari\ Reading\ List.scpt'
 
 ## Pull PR locally
 # git fetch origin pull/ID/head:BRANCHNAME
